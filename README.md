@@ -3,3 +3,5 @@ Elements of Programming Interviews (in Python) - Adnan Aziz, Tsung-Hsien Lee, Am
 -----------
 
 Keeping text on paper (and not practicing) is a waste of paper.
+
+- Bitwise operators
